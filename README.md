@@ -13,7 +13,7 @@ I specialize in **data management, data exploration, data integrity, predictive 
 
 ---
 
-### 📂 Featured Projects
+### 📂 Projects
 - **Business Control KPIs** – Real-time dashboard in Excel Spreadsheet, Power BI, Salesforce & Tableau to track key metrics and forecast sales and CPA.  
 - **Product Reconciliation** – Automated data cleaning & SQL transformation ensuring 100% product-line match. Resulting, accurate supplier billing.
 
