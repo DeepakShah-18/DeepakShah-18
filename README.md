@@ -1,7 +1,6 @@
 ## Hey, I'm Deepak Shah! 👋  
 
 I'm a **Data & Analytics Developer** who loves transforming complex datasets into clear, actionable insights.  
-I specialize in **data management, data exploration, data integrity, predictive modeling, and statistical analysis** to drive business performance and strategic decision-making.
 
 ---
 
@@ -16,7 +15,7 @@ I specialize in **data management, data exploration, data integrity, predictive 
 ### 📂 Projects
 - **Big Query Data Exosystem** – Data ingestion with multiple sources, stored in GCS, madellian structure for version control, Google Gemini AI Agent built up with LLM, Assigned multiple roles and assign Agent Based on the needs, Connected with Power BI, Used SQL/BQML/Python to streamline the data pipleline with data integrity, Scheduled email with AI enabled analysis summary, set triggers for KPI alert. 
 - **Product Reconciliation** – Automated data cleaning & SQL transformation ensuring 100% product-line match. Resulting, accurate supplier billing.
-- **Automated daily performance Report** – Built daily performance monitoring solition with automation in microsoft environment with 0 additional charges. Tool used - python, web-scrapping, advance excel, ETL tool power query and Power Automate.
+- **Automated daily performance Report** – Built daily performance monitoring solution with automation in microsoft environment with 0 additional charges. This approach saved 10 hours of daily work with 100% accuracy, heling business to utilise their source in advancing their business. Tool used - python, web-scrapping, advance excel, ETL tool power query, microsoft outlook, copilot studio and Power Automate.
 
 ---
 
