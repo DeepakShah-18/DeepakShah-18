@@ -1,21 +1,22 @@
-## Hey, I'm Deepak! 👋  
+## Hey, I'm Deepak Shah! 👋  
 
-I'm a **Data Analyst** who loves transforming complex datasets into clear, actionable insights.  
+I'm a **Data & Analytics Developer** who loves transforming complex datasets into clear, actionable insights.  
 I specialize in **data management, data exploration, data integrity, predictive modeling, and statistical analysis** to drive business performance and strategic decision-making.
 
 ---
 
 ### ⚡ What I Do
 - **Data Exploration & Visualization**: Power BI (DAX), Tableau, Advanced Excel  
-- **Database & Querying**: SQL, PostgreSQL, Salesforce Lightning  
-- **Advanced Analytics**: Predictive Modeling, Trend & Forecasting, Statistical Analysis  
+- **Database & Querying**: Big Query, SQL, PostgreSQL, Python, LLM, RAG, AI Agent, Salesforce Lightning  
+- **Advanced Analytics**: AI enablement, Machine Learning, Predictive Modeling, Trend & Forecasting, Statistical Analysis, Ad-hoc Analysis, Deep & Business Driven Analysis  
 - **Business Optimization**: Gap analysis, root-cause identification, and actionable insights for continuous improvement.
 
 ---
 
 ### 📂 Projects
-- **Business Control KPIs** – Real-time dashboard in Excel Spreadsheet, Power BI, Salesforce & Tableau to track key metrics and forecast sales and CPA.  
+- **Big Query Data Exosystem** – Data ingestion with multiple sources, stored in GCS, madellian structure for version control, Google Gemini AI Agent built up with LLM, Assigned multiple roles and assign Agent Based on the needs, Connected with Power BI, Used SQL/BQML/Python to streamline the data pipleline with data integrity, Scheduled email with AI enabled analysis summary, set triggers for KPI alert. 
 - **Product Reconciliation** – Automated data cleaning & SQL transformation ensuring 100% product-line match. Resulting, accurate supplier billing.
+- **Automated daily performance Report** – Built daily performance monitoring solition with automation in microsoft environment with 0 additional charges. Tool used - python, web-scrapping, advance excel, ETL tool power query and Power Automate.
 
 ---
 
